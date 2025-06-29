@@ -2,7 +2,8 @@
 
 **Interactive Tableau dashboard** visualizing the global impact of COVID-19. This project explores trends across countries, including confirmed cases, deaths, and vaccinations, using real-world datasets.
 
-![Dashboard Preview](Images/Dashboard%20image%202.PNG)
+![Dashboard Image 1](Images/Dashboard%20image%201.PNG)
+![Dashboard Image 2](Images/Dashboard%20image%202.PNG)
 
 ## 📊 Project Overview
 
@@ -25,7 +26,7 @@ This project was created to understand how COVID-19 spread globally and how diff
 |---------------------|----------------------------------------|
 | `Mapping_COVID.twbx`| Tableau packaged workbook               |
 | `images/`           | Screenshots of the dashboard            |
-| `data/`             | Raw or cleaned datasets (optional)      |
+| `data/`             | Raw or cleaned datasets                 |
 
 ## 📸 Dashboard Preview
 
