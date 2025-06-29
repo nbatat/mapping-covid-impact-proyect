@@ -30,7 +30,7 @@ This project was created to understand how COVID-19 spread globally and how diff
 
 ## 📸 Dashboard Preview
 
-<img src="images/dashboard-full.png" alt="COVID Dashboard" width="800"/>
+[![COVID Dashboard](images/dashboard_image1.png)](https://public.tableau.com/app/profile/natalia.batet/viz/EntregaFinal_Batet/Dashboard3)
 
 ## 🚀 How to Use
 
