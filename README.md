@@ -34,14 +34,13 @@ This project was created to understand how COVID-19 spread globally and how diff
 
 ## 🚀 How to Use
 
-1. Download the `.twbx` file
-2. Open it in Tableau Desktop (or Tableau Public)
-3. Interact with the filters and views
+1. Click the link to open dashboard in Tableau Public
+2. Interact with the filters and views
 
 ## 📌 Author
 
 - **Natalia Batet**  
-  [LinkedIn](https://www.linkedin.com/in/...)  
+  [LinkedIn](https://www.linkedin.com/in/natalia-batet)  
   📍 Santiago, Chile | 🌐 Remote-friendly
 
 ## 📝 License
